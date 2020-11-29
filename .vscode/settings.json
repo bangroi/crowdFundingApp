@@ -1,0 +1,6 @@
+{
+    "intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": true,
+    "intelephense.diagnostics.undefinedTypes": false,
+    "editor.suggest.showVariables": false,
+    "editor.showDeprecated": false
+}
